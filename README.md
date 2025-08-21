@@ -1,2 +1,2 @@
-# An Ensemble Learning Approach with Moth-Flame Optimization for Early Detection of Respiratory Diseases in Campus Students
+# Prediction analysis of potential respiratory diseases of campus students based on machine learning ensemble model optimized by moth-flame algorithm
 
